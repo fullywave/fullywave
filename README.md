@@ -1,9 +1,10 @@
 ### Hi, I'm fullywave
 
-I work on Python services and CI quality gates (pytest → coverage → SonarQube).
+I work on Python services, CI quality gates, and editor tooling.
 
 #### Featured
-- **[sonar-pytest-coverage-kit](https://github.com/fullywave/sonar-pytest-coverage-kit)** — copy-paste kit that turns pytest + coverage.py into SonarQube-ready `coverage.xml` (script, example app, GitHub Actions).
+- **[sublime-markdown-side-preview](https://github.com/fullywave/sublime-markdown-side-preview)** — Sublime Text 4 Markdown preview in an editor-side `HtmlSheet` (not browser-only).
+- **[sonar-pytest-coverage-kit](https://github.com/fullywave/sonar-pytest-coverage-kit)** — copy-paste kit: pytest + coverage.py → SonarQube-ready `coverage.xml`.
 
 #### Stack
-Python · pytest · coverage.py · SonarQube · GitHub Actions
+Python · pytest · SonarQube · Sublime Text · GitHub Actions
